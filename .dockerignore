@@ -1,0 +1,12 @@
+**
+!Dockerfile
+!Dockerfile.bot
+!package.json
+!server.mjs
+!cloud.mjs
+!app/
+!app/**
+!scripts/
+!scripts/**
+!bot/
+!bot/**

@@ -1,0 +1,9 @@
+private/
+.env
+.env.*
+!.env.example
+node_modules/
+*.sqlite
+*.sqlite-*
+*.log
+backups/
